@@ -1,0 +1,7 @@
+/* allow us to have absolute import starting from src directory */
+{
+    "compilerOptions": {
+        "baseUrl": "src"
+    },
+    "include": ["src"]
+}
